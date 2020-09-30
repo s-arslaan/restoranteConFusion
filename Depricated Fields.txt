@@ -31,3 +31,8 @@
                         <p class="d-none d-sm-block">Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, <em>Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!</em></p>
                     </div>
                 </div>
+
+
+
+<!-- Tooltip -->
+<a role="button" class="btn btn-warning btn-lg btn-block" data-toggle="tooltip" data-html="true" title="Or Call us at <br><strong>+852 12345678</strong>" data-placement="bottom" href="#ReserveForm">Reserve Table</a>
