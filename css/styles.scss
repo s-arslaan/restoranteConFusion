@@ -76,3 +76,16 @@ body {
     bottom: 0px;
     z-index: 1;
 }
+
+.modal-content{
+    .modal-header {
+        color: floralwhite;
+        background-color: $backgroud-dark;
+
+        button {color: $backgroud-pale;}
+    }
+
+    .modal-body {
+        background-color: $backgroud-pale;
+    }
+}
